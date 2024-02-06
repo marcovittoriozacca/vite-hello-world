@@ -18,7 +18,9 @@
 
     h1{
         text-align: center;
-        color: limegreen;
+        color: #41B883;
+        padding-block: 25px;
+        font-size: 3rem;
     }
 
 </style>
